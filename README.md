@@ -10,15 +10,15 @@ This project introduces a novel approach to improve language modeling by incorpo
 
 ## Requirements
 
-The code has been tested with Python 3.10.
+The code has been tested with Python 3.11.
 
+In order to install the required packages, run:
 ```bash
 pip install -r requirements.txt
 ```
 
 ## Running Experiments
 
-### Set Configuration
 First, you need to set some parameters (paths, etc.) in the `constants.py` file to fit your environment.
 Then, you can refer to the `experiments.txt` file to run the main experiments from the paper.
 
