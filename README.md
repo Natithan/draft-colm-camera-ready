@@ -6,6 +6,8 @@ This repository contains the code for the paper ["Learning to Plan for Language 
 
 This project introduces a novel approach to improve language modeling by incorporating a planning module trained on unlabeled data. Our method enhances the standard language model architecture by conditioning on generated latent plans, leading to improved performance, particularly in text structure. The unsupervised nature of our planner module allows for large-scale training, and the externality of the planner allows for easy sharing of trained planners with the community.
 
+![Overview of our approach](figures/overview.png)
+
 ## Requirements
 
 The code has been tested with Python 3.10.
