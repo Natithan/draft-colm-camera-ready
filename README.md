@@ -47,4 +47,4 @@ url={https://arxiv.org/abs/2404.00614}
 }
 ```
 
-This work has been accepted for presentation at the [1st Conference on Language Modeling (COLM)](https://colmweb.org/cfp.html).
+This work has been accepted for presentation at the [1st Conference on Language Modeling (COLM)](https://colmweb.org/).
